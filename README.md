@@ -1,5 +1,5 @@
 # Regression-Modeling-with-Ridge-Lasso-and-Linear-Regression
-# Predicting California Housing Prices using Linear, Ridge, and Lasso Regression
+
 
 This project demonstrates the implementation and comparison of **Linear Regression**, **Ridge Regression**, and **Lasso Regression** on the **California Housing dataset** using Python. The goal is to predict the median house value based on various features such as income, location, and housing attributes.
 
